@@ -1,0 +1,8 @@
+recette.txt
+Recette traditionnelle du couscous aux légumes
+
+compression_images.txt
+Présentation de la compression d'images au format JPEG
+
+photos/legende.txt
+Légende des photos de vacances d'été à la mer

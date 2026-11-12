@@ -1,0 +1,3 @@
+Compression d'images
+
+JPEG découpe l'image en blocs de 8 pixels sur 8 et applique une transformée.

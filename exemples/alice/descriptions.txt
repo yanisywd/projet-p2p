@@ -1,0 +1,8 @@
+MP3.txt
+FAQ sur l'algorithme de compression utilisé dans le codage audio MPEG-2
+
+rapport_tcp.txt
+Rapport sur le contrôle de congestion du protocole TCP
+
+cours/sockets.txt
+Cours d'introduction à la programmation réseau avec les sockets

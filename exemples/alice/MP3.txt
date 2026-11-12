@@ -1,0 +1,4 @@
+FAQ MP3
+
+Q : Qu'est-ce que le format MP3 ?
+R : Un format de compression audio avec perte, défini par la norme MPEG.

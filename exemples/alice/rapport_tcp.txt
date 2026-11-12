@@ -1,0 +1,3 @@
+Rapport : le contrôle de congestion de TCP
+
+TCP réduit son débit quand il détecte des pertes de paquets.

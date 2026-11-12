@@ -1,0 +1,13 @@
+# Fichiers compilés
+build/
+serveur_central
+serveur_ftp
+client_ftp
+
+# Fichiers créés à l'exécution
+demo/
+utilisateurs.db
+.serveur_ftp.port
+.telechargement.*.part
+__pycache__/
+.DS_Store

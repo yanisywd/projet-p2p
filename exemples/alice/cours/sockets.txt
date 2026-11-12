@@ -1,0 +1,4 @@
+Cours : programmation des sockets
+
+socket() crée la socket, bind() choisit le port, listen() attend les
+connexions et accept() en reçoit une.
